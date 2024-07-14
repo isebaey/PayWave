@@ -6,6 +6,10 @@ PayWave is a modern web application designed to streamline customer transactions
 
 Link demo: https://isebaey.github.io/PayWave
 
+
+https://github.com/user-attachments/assets/4fd2fc6c-369b-42cb-b7ec-f9cc942459f6
+
+
 ## Features
 
 - **Customer Management**: Easily view and manage customer data in a sleek table format.
