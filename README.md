@@ -3,7 +3,9 @@
 ## Overview
 
 PayWave is a modern web application designed to streamline customer transactions and provide insightful analytics through dynamic charts. Built with React, Bootstrap, and Chart.js, PayWave aims to enhance user experience with a responsive design and interactive features.
+
 Link demo: https://isebaey.github.io/PayWave
+
 ## Features
 
 - **Customer Management**: Easily view and manage customer data in a sleek table format.
@@ -39,10 +41,10 @@ Clone the repository:
 git clone https://github.com/isebaey/PayWave.git
 cd PayWave
 
-### Usage
+Usage
 - Navigate to the customer management section to view customer data.
 - Use the search bar to find specific customers quickly.
 - Explore transaction graphs for analytical insights.
 
-### Contributing
+Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for improvements or bug fixes.
