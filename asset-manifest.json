@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PayWave/static/css/main.e9c14ec2.css",
+    "main.js": "/PayWave/static/js/main.94960303.js",
+    "static/js/453.9f887a2c.chunk.js": "/PayWave/static/js/453.9f887a2c.chunk.js",
+    "index.html": "/PayWave/index.html",
+    "main.e9c14ec2.css.map": "/PayWave/static/css/main.e9c14ec2.css.map",
+    "main.94960303.js.map": "/PayWave/static/js/main.94960303.js.map",
+    "453.9f887a2c.chunk.js.map": "/PayWave/static/js/453.9f887a2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c14ec2.css",
+    "static/js/main.94960303.js"
+  ]
+}
